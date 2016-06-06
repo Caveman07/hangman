@@ -1,0 +1,12 @@
+--- !ruby/object:Hangman
+hidden_word: defiantly
+show:
+- _
+- _
+- _
+- _
+- a
+- _
+- t
+- _
+- _
